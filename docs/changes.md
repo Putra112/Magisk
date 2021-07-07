@@ -1,4 +1,4 @@
-# Magisk Changelog
+Magisk/docs/changes.mp# Magisk Changelog
 
 ### v23.0
 
